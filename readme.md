@@ -26,8 +26,9 @@ Before running the tool, ensure that you have Python 3.6+ installed along with t
 
 You can install these dependencies using pip:
 
-```bash
-pip install requests colorama python-dateutil
+``bash
+pip install requests colorama python-dateutil``
+
 
 
 
@@ -40,3 +41,7 @@ You can donate using Litecoin (LTC) to the following address:
 `ltc1qmy3jffpmvhl7wav64nhx0jweg6jyfsm5peq50z`
 
 Thank you for your support!
+
+
+
+
